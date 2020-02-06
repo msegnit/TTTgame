@@ -1,0 +1,49 @@
+
+body {
+    background-color: purple;
+    font-family: 'Bangers', cursive;
+    background-image:
+      url("https://i.imgur.com/ylBfjGS.png");
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    color: white;
+
+}
+
+h1{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Bangers', cursive;
+}
+ h2{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Bangers', cursive;
+}
+
+div {
+    border: 10px solid white;
+    height: 140px;
+    width: 140px;
+    text-align: center;
+    padding: 2px;
+    border-radius: 50px;
+    
+}
+
+button {
+    font-family: 'Bangers', cursive;
+    font-size: 40px;
+    color: white;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: black; 
+    border-radius: 50px;
+    
+}
+
