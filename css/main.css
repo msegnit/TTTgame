@@ -10,6 +10,7 @@ body {
     align-items: center;
     font-size: 100px;
     color: white;
+    height: 200vh;
 
 }
 
@@ -19,13 +20,13 @@ h1{
     text-align: center;
     font-family: 'Bangers', cursive;
 }
- h2{
+
+h2{
     color: white;
-    font-size: 50px;
+    font-size: 60px;
     text-align: center;
     font-family: 'Bangers', cursive;
 }
-
 div {
     border: 10px solid white;
     height: 140px;
@@ -44,6 +45,7 @@ button {
     padding: 10px;
     background-color: black; 
     border-radius: 50px;
+
     
 }
 
